@@ -150,6 +150,7 @@ input:focus,select:focus,textarea:focus{outline:none;border-color:var(--grafit);
 .rodo{font-size:14px;color:var(--szary);margin-top:12px}
 .pole.zle span,.pole.zle input{border-color:#A3240B}
 
+.wyslane{scroll-margin-top:calc(var(--head) + 20px)}
 .wyslane h3{font-size:28px}
 .wyslane>p{margin-top:14px;font-size:17px}
 .mail{margin:22px 0;border:1px solid var(--linia);border-radius:3px;overflow:hidden}
